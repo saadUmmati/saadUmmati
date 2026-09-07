@@ -5,7 +5,7 @@
       <h3 style="font-size: 28px; margin-top: 12px; font-weight: 500;">AI Automation Engineer</h3>
     </td>
     <td align="right" valign="middle" width="40%" style="border: none; border-style: none;">
-      <img src="https://github.com/saadummati.png" width="420" alt="Muhammad Saad Ahmed"/>
+      <img src="https://github.com/saadUmmati/saadUmmati/blob/main/saad.jpg" width="420" alt="Muhammad Saad Ahmed"/>
     </td>
   </tr>
 </table>
@@ -118,25 +118,7 @@ A custom-trained YOLOv8 object detection model for identifying helmet compliance
 
 ---
 
-## Tech Stack
-
-**AI · Agentic Automation**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-27152B?style=for-the-badge&logo=n8n&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/LangChain-27152B?style=for-the-badge&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-27152B?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-27152B?style=for-the-badge&logoColor=FFFFFF"/>
-</p>
-
-**On-Device ML & Computer Vision**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-27152B?style=for-the-badge&logo=onnx&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/YOLOv8-27152B?style=for-the-badge&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/DINOv2-27152B?style=for-the-badge&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CLIP-27152B?style=for-the-badge&logoColor=FFFFFF"/>
-</p>
+## TECH STACK
 
 ### 👨‍💻 Languages
 <br/>
