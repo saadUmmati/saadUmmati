@@ -1,9 +1,14 @@
-<p align="center">
-  <img src="https://github.com/saadummati.png" width="140" alt="Muhammad Saad Ahmed"/>
-</p>
-
-<h1 align="center">Muhammad Saad Ahmed</h1>
-<h3 align="center">AI Automation Engineer</h3>
+<table align="center" border="0" frame="void" rules="none" style="border: none; border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td valign="middle" width="60%" style="border: none; border-style: none;">
+      <h1 style="font-size: 6%; line-height: 1.1; margin: 0;">Muhammad Saad Ahmed</h1>
+      <h3 style="font-size: 28px; margin-top: 12px; font-weight: 500;">AI Automation Engineer</h3>
+    </td>
+    <td align="right" valign="middle" width="40%" style="border: none; border-style: none;">
+      <img src="https://github.com/saadummati.png" width="420" alt="Muhammad Saad Ahmed"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&background=27152BFF&center=true&vCenter=true&width=620&height=50&lines=I+build+agents+that+reason%2C+act+%26+ship;n8n+%C2%B7+LangChain+%C2%B7+On-Device+ML+%C2%B7+Android" alt="Typing SVG" />
@@ -314,17 +319,9 @@ A custom-trained YOLOv8 object detection model for identifying helmet compliance
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadummati&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=27152B&text_color=FFFFFF&border_color=27152B&rank_icon=github" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=saadummati&hide_border=true&background=000000&ring=27152B&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=27152B" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadummati&bg_color=000000&color=FFFFFF&line=27152B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadummati&theme=dracula&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</p>
 
 ---
 
