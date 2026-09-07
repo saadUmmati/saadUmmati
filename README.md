@@ -115,10 +115,6 @@ A custom-trained YOLOv8 object detection model for identifying helmet compliance
 
 ## Tech Stack
 
-**Languages**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=python,kotlin,js&theme=dark" /></p>
-
 **AI · Agentic Automation**
 
 <p align="left">
@@ -135,19 +131,179 @@ A custom-trained YOLOv8 object detection model for identifying helmet compliance
   <img src="https://img.shields.io/badge/YOLOv8-27152B?style=for-the-badge&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/DINOv2-27152B?style=for-the-badge&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CLIP-27152B?style=for-the-badge&logoColor=FFFFFF"/>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
 </p>
 
-**Web & App Development**
+### 👨‍💻 Languages
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="icon" width="65" height="65" />
+            <br>Kotlin
+        </td>        
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+            <br>CPP
+        </td>        
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+            <br>Java
+        </td>
+    </tr>
+</table>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,androidstudio&theme=dark" /></p>
+### 🧠 AI / ML
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://hdrobots.com/wp-content/uploads/2025/01/yolo-logo.svg" width="48" height="48" alt="PyTorch" />
+            <br>Yolo
+        </td>
+        <td align="center" width="90">
+            <img src="https://storage.googleapis.com/kaggle-organizations/3837/thumbnail-2.png" width="48" height="48" alt="PyTorch" />
+            <br>Dinov2
+        </td>        
+        <td align="center" width="90">
+            <img src="https://files.svgcdn.io/simple-icons/onnx.png" width="48" height="48" alt="PyTorch" />
+            <br>ONNX
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+            <br>PyTorch
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
+            <br>Scikit-Learn
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+            <br>OpenCV
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+            <br>NumPy
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+            <br>Pandas
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+            <br>Matplotlib
+        </td>
+              <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+            <br>FastAPI
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+            <br>Streamlit
+        </td>
+    </tr>
+</table>
 
-**Cloud & Tools**
+### 🗄️ Databases
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+            <br>SQLite
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Postgres" />
+            <br>Supabase
+        </td>
+              <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Postgres" />
+            <br>Firebase
+        </td>
+    </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma&theme=dark" />
-  <img src="https://img.shields.io/badge/Render-27152B?style=for-the-badge&logo=render&logoColor=FFFFFF"/>
-</p>
+### ☁️ Cloud & DevOps
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+            <br>Vercel
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="Netlify" />
+            <br>Google Cloud
+        </td>
+    </tr>
+</table>
+
+### 🧰 Tools
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n.png" width="48" height="48" alt="PyTorch" />
+            <br>n8n
+        </td>
+        <td align="center" width="90">
+            <img src="https://www.kaggle.com/static/images/site-logo.svg" width="48" height="48" alt="Git" />
+            <br>Kaggle
+        </td>
+        <td align="center" width="90">
+            <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Git" />
+            <br>HuggingFace
+        </td>
+        <td align="center" width="90">
+            <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/lovable-color.png" width="48" height="48" alt="Git" />
+            <br>Lovable
+        </td>
+        <td align="center" width="90">
+            <img src="https://svgstack.com/media/img/bolt-ai-logo-uEH0165212.webp" width="48" height="48" alt="Git" />
+            <br>Blot.new
+        </td>
+        <td align="center" width="90">
+            <img src="https://media.licdn.com/dms/image/v2/D560BAQG5wmEaqHfmDg/company-logo_400_400/B56ZqUSJh0I4Ac-/0/1763424377586/google_antigravity_logo?e=1790208000&v=beta&t=OutwEZGfq8XXKBc8Y6jJxobtqg1ZGrt4DeX8O2zW_WM" width="48" height="48" alt="Git" />
+            <br>AntiGravity
+        </td>  
+      <td align="center" width="90">
+            <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png" width="48" height="48" alt="Git" />
+            <br>Claude
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" width="48" height="48" alt="Postman" />
+            <br>LangChain
+        </td>
+    </tr>
+</table>
+
 
 ---
 
