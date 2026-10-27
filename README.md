@@ -1,14 +1,48 @@
-<table align="center" border="0" frame="void" rules="none" style="border: none; border-collapse: collapse; border-spacing: 0;">
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 1px solid #3D3048; border-radius: 14px; border-collapse: separate; background-color: #17141D; overflow: hidden;">
   <tr>
-    <td valign="middle" width="60%" style="border: none; border-style: none;">
-      <h1 style="font-size: 6%; line-height: 1.1; margin: 0;">Muhammad Saad Ahmed</h1>
-      <h3 style="font-size: 28px; margin-top: 12px; font-weight: 500;">AI Automation Engineer</h3>
+    <td width="60%" valign="middle" style="padding: 34px 18px 34px 30px; border: none; background-color: #17141D;">
+      <p style="margin: 0 0 14px 0; font-family: monospace; font-size: 12px; letter-spacing: 3px; color: #A78BFA;">
+        // AI ENGINEERING & AUTOMATION
+      </p>
+      <h1 style="margin: 0; padding: 0 0 14px 0; font-size: 34px; line-height: 1.25; font-weight: 800; color: #F5F0FF; border-bottom: 2px solid #3D3048;">
+        Muhammad Saad Ahmed
+      </h1>
+      <h3 style="margin: 16px 0 12px 0; font-size: 19px; font-weight: 600; color: #C4B5FD;">
+        AI Automation Engineer
+      </h3>
+      <p style="margin: 0 0 22px 0; font-size: 14px; line-height: 1.8; color: #B9B0C8;">
+        Building intelligent agents, autonomous workflows<br/>
+        &amp; on-device machine learning systems.
+      </p>
+      <p style="margin: 0; font-family: monospace; font-size: 12px; line-height: 2; color: #A78BFA;">
+        <b style="color: #F5F0FF;">[ THINK ]</b>
+        &nbsp;→&nbsp;
+        <b style="color: #F5F0FF;">[ AUTOMATE ]</b>
+        &nbsp;→&nbsp;
+        <b style="color: #F5F0FF;">[ SHIP ]</b>
+      </p>
+      <p style="margin: 22px 0 0 0;">
+        <img src="https://img.shields.io/badge/LLMs-27152B?style=flat-square&logo=openai&logoColor=C4B5FD" alt="LLMs"/>
+        <img src="https://img.shields.io/badge/AI%20Agents-27152B?style=flat-square&logo=probot&logoColor=C4B5FD" alt="AI Agents"/>
+        <img src="https://img.shields.io/badge/On--Device%20ML-27152B?style=flat-square&logo=android&logoColor=C4B5FD" alt="On-Device ML"/>
+      </p>
     </td>
-    <td align="right" valign="middle" width="40%" style="border: none; border-style: none;">
-      <img src="https://github.com/saadUmmati/saadUmmati/blob/main/saad.jpg" width="420" alt="Muhammad Saad Ahmed"/>
+    <td width="40%" align="center" valign="middle" style="padding: 10px; border: none; border-left: 1px solid #3D3048; background-color: #201A29;">
+      <img
+        src="https://github.com/saadUmmati/saadUmmati/blob/main/saad.jpg?raw=true"
+        width="100%"
+        alt="Muhammad Saad Ahmed — AI Automation Engineer"
+        style="display: block; border-radius: 9px;"
+      />
+      <p style="margin: 12px 0 2px 0; font-family: monospace; font-size: 11px; letter-spacing: 2px; color: #A78BFA;">
+        <span style="color: #C4B5FD;">●</span> ENGINEERING INTELLIGENCE
+      </p>
     </td>
   </tr>
 </table>
+
+![Claude SEO cover: a Claude Code command palette with /seo audit, schema, geo, content, and backlinks commands over a dark CRT panel](cover.svg)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FFFFFF&background=27152BFF&center=true&vCenter=true&width=620&height=50&lines=I+build+agents+that+reason%2C+act+%26+ship;n8n+%C2%B7+LangChain+%C2%B7+On-Device+ML+%C2%B7+Android" alt="Typing SVG" />
